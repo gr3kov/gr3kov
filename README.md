@@ -2,7 +2,7 @@
 - 👀 I’m interested in php / js / html / python 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on seriosly interesting commercial project
-- 📫 How to reach me Cisco network certificate
+- 📫 Nowadays i got some Netacad corporative courses.
 
 <!---
 gr3kov/gr3kov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
