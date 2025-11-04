@@ -1,5 +1,5 @@
-- 👋 Hi, I’m anykey It specialist with some basic fullstack knowledge and having some work skill with help 908 inc company php frontend  developer
-- 👀 I’m interested in php / js / html / python 
+- 👋 Hi, I’m anykey It specialist with some basic fullstack developer knowledge and having some work skill with help 908 inc company like php frontend  developer
+- 👀 I’m interested in php / js / html / python / c++
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on seriosly interesting commercial project
 - 📫 Nowadays i got some Netacad corporative courses.
