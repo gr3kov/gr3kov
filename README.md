@@ -1,4 +1,4 @@
-- 👋 Hi, I’m It specialist with some fullstack developer knowledge and having some work skill with help 908 inc company like php frontend  developer
+- 👋 Hi, I’m It specialist with some fullstack developer knowledge and having some work skill with help 908 inc company like php frontend  developer and had work on national internet provider on Ukraine
 - 👀 I’m interested in php / js / html / python / c++ also i got much more repository
 - 🌱 I’m currently practice with python / bash / golang / llm
 - 💞️ I’m looking to collaborate on seriosly interesting commercial project
